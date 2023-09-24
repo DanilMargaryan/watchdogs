@@ -48,6 +48,7 @@ Project Organization
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
+    ├── web                <- The directory in which the site was developed on the Django framework.
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
